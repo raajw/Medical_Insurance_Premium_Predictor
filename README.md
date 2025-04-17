@@ -4,7 +4,7 @@
   <h4>Empowering Healthier Decisions: Predicting Your Medical Insurance Costs with Machine Learning</h4><br>
 
 
-<img src="https://github.com/raajw/Medical_Insurance_Premium_Predictor/main/Screenshot 2025-04-17 092516.png" style="width: 500px; height: 400px;">
+<img src="https://github.com/raajw/Medical_Insurance_Premium_Predictor/tree/main/Screenshot 2025-04-17 092516.png" style="width: 500px; height: 400px;">
   
 </div>
 
