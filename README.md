@@ -2,8 +2,11 @@
 
 <div align= "center">
   <h4>Empowering Healthier Decisions: Predicting Your Medical Insurance Costs with Machine Learning</h4><br>
+
+
   
 </div>
+![Insurance Prediction](feature_score.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
